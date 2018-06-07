@@ -1,2 +1,1 @@
-# Zuro-UI
-The QT-based Desktop for feren OS
+Moved to https://gitlab.com/Feren-OS-Dev/Zuro-UI
